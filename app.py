@@ -11,7 +11,7 @@ import google.generativeai as genai
 
 # ================= CONFIGURATION =================
 # ⚠️ REPLACE THIS WITH YOUR ACTUAL GOOGLE API KEY
-GOOGLE_API_KEY = "AIzaSyCkPej2ofPBbWH6kJgQ95aK8_5l3942ld4"
+GOOGLE_API_KEY = "GOOGLE_API_KEY"
 
 # EPIC CONFIGURATION
 CLIENT_ID = "2914e8ac-a781-47b2-928b-404916f6e8d2" 
